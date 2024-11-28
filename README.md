@@ -38,4 +38,5 @@ A simple web service to process receipts and calculate reward points based on pr
 
 1. Build the Docker image:
    ```bash
-   docker build -t receipt-processor .
+   docker-compose up
+   ```
