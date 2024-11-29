@@ -31,12 +31,14 @@ A simple web service to process receipts and calculate reward points based on pr
 
 - Docker (for containerized execution)
 - Node.js (if running locally)
+- Node version (21.7.3)
 
 ## Setup and Running the Application
 
 ### Running with Docker
 
 1. Build the Docker image:
+
    ```bash
    docker-compose up
    ```
