@@ -37,6 +37,8 @@ A simple web service to process receipts and calculate reward points based on pr
 
 ### Running with Docker
 
+`Note: make sure you have Docker Desktop installed and running properly`
+
 1. Build the Docker image:
 
    ```bash
